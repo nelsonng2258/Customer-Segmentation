@@ -14,3 +14,5 @@ Items to download to run the program:
 4. my_Functions_cp_graph.py
 5. my_Functions_cp_model.py
 6. my_Functions_cp_wrangle.py
+
+Note: To shorten the running, the EDA section can be skipped.
